@@ -1,0 +1,22 @@
+
+.rowTwo {
+    display: flex;
+}
+
+.mapContainer, .tableContainer {
+    background-color: var(--background-color);
+    margin: 4px;
+}
+
+.mapContainer {
+    width: 75%;
+}
+
+.tableContainer {
+    width: 25%;
+}
+
+h4 {
+    margin: 5px;
+    text-align: center;
+}
